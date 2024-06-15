@@ -1,1 +1,1 @@
-Write-Host 'PowerShell works!'
+Write-Output 'PowerShell works!'
